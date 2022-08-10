@@ -40,3 +40,6 @@ My guidelines for designing, coding, and working in general.
 - Use styles up top in the `<head>` and scripts at the bottom before `</body>`.
 - Compress your styles and scripts.
 - Use HTML5 form controls when **applicable** to trigger the right keyboard on mobile (`url`, `email`…)
+
+### CSS
+- https://github.com/airbnb/css
