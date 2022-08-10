@@ -1,6 +1,13 @@
 # 📐 Guidelines
 My guidelines for designing, coding, and working in general.
 
+- [Coding Guidelines](#coding-guidelines)
+    - [General](#general)
+    - [Coding Resources](#coding-resources)
+    - [Git](#git)
+    - [HTML](#html)
+    - [CSS](#css)
+
 ## Coding Guidelines
 
 ### General
